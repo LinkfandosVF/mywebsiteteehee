@@ -1,13 +1,10 @@
 @font-face {
     font-family: "ms-gothic";
-    src: url('fonts/ms-gothic.woff') format('woff');
-    src: url('fonts/ms-gothic.woff2') format('woff2')
+    src: url('fonts/ms-gothic.woff2') format('woff2'),
+         url('fonts/ms-gothic.woff') format('woff');
 }
-
-
-
 
 .center {
     text-align: center;
-    font-family: "ms-gothic";
+    font-family: "ms-gothic", sans-serif;
 }
