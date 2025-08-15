@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "ms-gothic";
+    src: url('fonts/ms-gothic.woff') format('woff');
+    src: url('fonts/ms-gothic.woff2') format('woff2')
+}
+
+
+
+
+.center {
+    text-align: center;
+    font-family: "ms-gothic";
+}
